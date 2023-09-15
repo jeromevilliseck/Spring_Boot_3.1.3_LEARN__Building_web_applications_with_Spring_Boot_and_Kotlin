@@ -1,0 +1,4 @@
+- Install chocolatey on windows
+- Install kubernetes on windows with chocolatey
+- link provided by intellij jetbrains https://kubernetes.io/docs/tasks/tools/install-kubectl-windows/#install-nonstandard-package-tools
+- Relaunch the main of the application
