@@ -1,0 +1,4 @@
+Right Click on intellij for create classes test or file in Kotlin
+(sources files must always have .kt extension, not .java)
+- right click on package -> new -> Kotlin Class/File
+ Never new -> Java Class
